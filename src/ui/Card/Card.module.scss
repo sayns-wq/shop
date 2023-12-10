@@ -1,0 +1,42 @@
+.card {
+  background-color: #ffffff;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.cardImage {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.cardImage:hover {
+  transform: scale(1.2);
+  transform-origin: bottom;
+}
+.cardInfo {
+  padding: 10px;
+}
+.cardPrice {
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.cardName {
+  line-height: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  height: 32px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.cardName:hover {
+  color: #1551e5;
+  // white-space: wrap;
+}
+.cardHref {
+  cursor: auto;
+}

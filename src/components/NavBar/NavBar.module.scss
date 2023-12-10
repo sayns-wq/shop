@@ -1,0 +1,54 @@
+$white: #ffffff;
+$base_padding: 0px 40px;
+
+.link {
+  color: white;
+  font-family: GothamProMedium, sans-serif;
+  font-weight: 500;
+  padding: 0 4px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+.active {
+  color: #ffffff;
+}
+
+.NavBar {
+  background-color: rgba(0, 0, 0, 0.578);
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: $base_padding;
+  position: relative;
+  z-index: 2;
+  transition: 0.7s;
+  &:hover {
+    background-color: #ffffff;
+    .link {
+      color: #000000;
+    }
+  }
+  &:hover * {
+    color: #030303;
+  }
+}
+.NavBarActive {
+  background-color: $white;
+}
+.link_wrapper {
+  height: 100%;
+  display: flex;
+  margin-right: 50px;
+  &:hover {
+    background-color: #0026ff;
+  }
+}
+@media (max-width: 767px) {
+  .NavBar {
+    display: none;
+  }
+}
