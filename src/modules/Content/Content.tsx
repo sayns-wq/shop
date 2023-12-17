@@ -4,12 +4,7 @@ import Card from "../../ui/Card/Card";
 import Pagination from "../../components/Pagination/Pagination";
 import styles from "./Content.module.scss";
 import mock from "./../../../mock.json";
-interface product {
-  id: number;
-  imageUrl: string;
-  name: string;
-  price: string | number;
-}
+import {product} from "@/interfaces/common"
 const info: product[] = mock;
 
 let size = 14;

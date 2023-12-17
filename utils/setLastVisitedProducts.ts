@@ -1,7 +1,7 @@
-const setLastVisitedProducts = (id: string) => {
+const setLastVisitedProducts = (id: number) => {
   if (typeof window !== "undefined") {
     const visitedProducts = localStorage.getItem("visitedProducts");
-    let products: string[] = [];
+    let products: number[] = [];
     if (visitedProducts) {
       products = JSON.parse(visitedProducts);
       if (products.includes(id)) {

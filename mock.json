@@ -3,37 +3,505 @@
     "id": 1,
     "name": "Shrimp - 150 - 250",
     "price": "$19.67",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "color": "белый",
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Onions - White",
     "price": "$15.71",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "color": "белый",
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Sauce - Hp",
     "price": "$21.04",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "color": "белый",
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Langers - Mango Nectar",
     "price": "$98.54",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "color": "белый",
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 5,
     "name": "Peas Snow",
     "price": "$75.86",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "color": "белый",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Sage - Fresh",
     "price": "$76.85",
-    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+    "imageUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg",
+    "sizes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "color": "белый",
+    "colors": [
+      {
+        "colorName": "белый",
+        "previewUrl": "https://cdn.sportmaster.ru/upload/resize_cache/iblock/b3c/464_624_1/74405830299.jpg"
+      }
+    ],
+    "characteristics": [
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      },
+      {
+        "title": "Конструктивные особенности",
+        "characteristicItems": [
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          },
+          {
+            "characterTitle": "Застежка",
+            "character": "Шнуровка"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 7,
