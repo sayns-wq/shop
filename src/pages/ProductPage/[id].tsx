@@ -5,6 +5,7 @@ import { product } from "@/interfaces/common";
 import styles from "./ProductPage.module.scss";
 import { useEffect } from "react";
 import Button from "@/ui/Button/Button";
+import Rating from "@/ui/Rating/Rating";
 
 interface ProductPageProps {
   product: product;
@@ -61,6 +62,8 @@ export default function ProductPage({ product }: ProductPageProps) {
         <div className={styles.productInfo}>
           <div className={styles.productTitle}>{product.name}</div>
           <div className={styles.productPrice}>{product.price}</div>
+          <Rating ratingValue={product.rating} edit={false} />
+
           <div className={styles.colorsWrapper}>
             <div className={styles.currentColor}>
               <span>Цвет:</span>

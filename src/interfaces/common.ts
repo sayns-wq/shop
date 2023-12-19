@@ -19,4 +19,5 @@ export interface product {
     }
   ];
   characteristics: productCharacteristics[];
+  rating?: number;
 }
