@@ -1,4 +1,4 @@
-interface productCharacteristics {
+export interface productCharacteristics {
   title: string;
   characteristicItems: {
     characterTitle: string;

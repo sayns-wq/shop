@@ -1,0 +1,22 @@
+.characterWrapper {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  & h5 {
+    width: 50%;
+  }
+}
+.characterTitle {
+  color: #939393;
+}
+.chareacteristicsWrapper > * {
+  border-bottom: 1px solid #9393937b;
+  padding: 10px 5px;
+}
+.productCharacteristics {
+  padding-top: 20px;
+  & h2 {
+    display: block;
+    grid-area: content;
+  }
+}
